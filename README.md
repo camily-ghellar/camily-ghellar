@@ -1,5 +1,5 @@
 ## Oii, eu sou a Camily! :D
-### Sou estudante da área de programação e tecnologia!
+### Profissional da área de programação e tecnologia!
 ### Seja bem-vindo ao meu GitHub! ;)
 
 ##
