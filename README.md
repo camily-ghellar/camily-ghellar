@@ -1,6 +1,6 @@
-## Oii, eu sou a Camily! :D
-### Profissional da área de programação e tecnologia!
-### Seja bem-vindo ao meu GitHub! ;)
+## Heyy there! I'm Camily! :D
+### I'm a IT professional - I love programming and technology!
+### Welcome to my GitHub! ;) 
 
 ##
 
@@ -14,6 +14,9 @@
   <img align="center" alt="Camily-laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">   
   <img align="center" alt="Camily-mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
   <img align="center" alt="Camily-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Camily-Dart" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />
+  <img align="center" alt="Camily-Flutter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+
                                                                                                                                              
 </div>
 
