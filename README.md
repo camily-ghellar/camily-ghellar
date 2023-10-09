@@ -1,4 +1,4 @@
-## Heyy there! I'm Camily! :D
+## Hey! I'm Camily! :D
 ### I'm an IT professional - I love programming and technology!
 ### Welcome to my GitHub! ;) 
 
